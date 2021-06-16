@@ -1,6 +1,3 @@
--- Milestone 2: 10 Queries and a Stored Procedure
--- Created by Baran Onalan, Casey Nguyen and Tran Bui
--- Finalized March 13, 2021
 USE Group5Collab;
 
 -- #1 Show the average exam grade.
